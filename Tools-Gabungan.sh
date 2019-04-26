@@ -124,7 +124,7 @@ read -p "╰──────#>>>" pil;
 
 
 case  $pil in
-1) figlet -f clant reset...
+1) figlet -f slant MR.T-REX...
 echo  "Masih dalam proses" | lolcat
 echo  "Jangan dulu di Pake" | lolcat
 echo "Mohon Maaf Atas Ketidak nyamanannya" | lolcat
@@ -132,7 +132,7 @@ echo "Pakek Aja Yg Lain " | lolcat
 
 ;;
 
-2) figlet -f shadow LAZYMUX...
+2) figlet -f slant MR.T-REX. ...
 apt update && apt upgrade
 apt install python2
 apt install git
@@ -142,7 +142,7 @@ cd Lazymux
 
 ;;
 
-3) figlet -f shadow Deface...
+3) figlet -f slant MR.T-REX...
 apt update && apt upgrade -y
 apt install git
 git clone https://github.com/Amriez/AOCDEFACE
@@ -150,7 +150,7 @@ cd AOCDEFACE
 
 ;;
 
-4) figlet -f shadow installing...
+4) figlet -f slant MR.T-REX...
 apt update
 apt upgrade
 apt install git
@@ -159,7 +159,7 @@ git clone https://github.com/Ubaii/script-deface-creator
 
 ;;
 
-5) figlet -f shadow weeman...
+5) figlet -f slant MR.T-REX...
 apt update && apt upgrade
 apt install python2 git -y
 git clone https://github.com/evait-security/weeman.git
@@ -167,7 +167,7 @@ cd weeman
 
 ;;
 
-6) figlet -f shadow HYDRA....
+6) figlet -f slant MR.T-REX...
  apt update && apt install -y wget
 apt install hydra
 wget 
@@ -175,7 +175,7 @@ http://scrapmaker.com/download/data/wordlists/dictionaries/rockyou.txt
 
 ;;
 
-7) figlet -f shadow IPCS...
+7) figlet -f slant MR.T-REX...
 apt update && apt upgrade
 pkg install python2
 pkg install git
@@ -184,7 +184,7 @@ git clone https://github.com/kancotdiq/ipcs
 
 ;;
 
-8) figlet -f shadow OSIF...
+8) figlet -f slant MR.T-REX...
 lapt update && apt upgrade
 apt install python2
 pip2 install requests mechanize
@@ -195,7 +195,7 @@ cd OSIF
 
 ;;
 
-9) figlet -f shadow MBF...
+9) figlet -f slant MR.T-REX...
 pkg update && pkg upgrade
 pkg install python2
 pkg install git
@@ -204,20 +204,20 @@ cd mbf
 
 ;;
 
-10) figlet -f shadow YAHOO...
+10) figlet -f slant MR.T-REX...
 apt update && apt upgrade
 git clone https://github.com/FR13ND8/EmailVuln
 
 ;;
 
-11) figlet -f shadow Facebook...
+11) figlet -f slant MR.T-REX...
 apt update && apt upgrade
 apt install python2
 git clone https://github.com/MRT-REX/Crack-Facebook
 
 ;;
 
-12) figlet -f shadow installing Malicious...
+12) figlet -f slant MR.T-REX...
 apt update && apt upgrade
 apt install git python2 -y
 git clone https://github.com/Hider5/Malicious
@@ -225,7 +225,7 @@ git clone https://github.com/Hider5/Malicious
 
 ;;
 
-13) figlet -f shadow Black...
+13) figlet -f slant MR.T-REX...
 pkg install bash
 pkg install git
 git clone https://github.com/thelinuxchoice/blackeye
@@ -233,7 +233,7 @@ git clone https://github.com/thelinuxchoice/blackeye
 
 ;;
 
-14) figlet -f shadow Ko-Dork...
+14) figlet -f slant MR.T-REX...
 pkg update upgrade
 pkg install git python2
 git clone https://github.com/ciku370/ko-dork
@@ -242,7 +242,7 @@ cd ko-dork
 ;;
 
 
-15) figlet -f shadow Gmail...
+15) figlet -f slant MR.T-REX...
 pkg update
 pkg install git
 git clone https://github.com/aliattacker/hackgmail
