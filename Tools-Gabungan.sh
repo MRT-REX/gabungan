@@ -124,7 +124,7 @@ read -p "╰──────#>>>" pil;
 
 
 case  $pil in
-1) figlet -f shadow reset...
+1) figlet -f clant reset...
 echo  "Masih dalam proses" | lolcat
 echo  "Jangan dulu di Pake" | lolcat
 echo "Mohon Maaf Atas Ketidak nyamanannya" | lolcat
