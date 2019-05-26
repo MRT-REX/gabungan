@@ -116,7 +116,7 @@ echo -e $b "13. TOOLS BLACK EYE${enda}"
 echo -e "<[¤]>=========================<[¤]>" | lolcat
 echo -e $b "14. KO-DORK${enda}"
 echo -e "<[¤]>=========================<[¤]>" | lolcat
-echo -e $b "15. BRUTEGMAIL${enda}"
+echo -e $b "15. HACK WIFI(ROOT)${enda}"
 echo -e "<[¤]>=========================<[¤]>" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "╭─RooT./T-REX [PILIH AJA NOMERNYA]" | lolcat
@@ -245,8 +245,8 @@ cd ko-dork
 15) figlet -f slant MR.T-REX...
 pkg update
 pkg install git
-git clone https://github.com/aliattacker/hackgmail
-
+git clone https://github.com/MRT-REX/Wifi-Hack
+mv WiFiHack.apk /sdcard
 
 ;;
 
