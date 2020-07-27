@@ -88,7 +88,7 @@ echo ""
 
 
 echo ""
-echo -e $b "1. RESET HP ORG${enda}";
+echo -e $b "1. HACK CCTV INDOMART${enda}";
 echo -e "<[¤]>=========================<[¤]>" | lolcat
 echo -e $b "2. LAZYMUX${enda}";
 echo -e "<[¤]>=========================<[¤]>" | lolcat                          
